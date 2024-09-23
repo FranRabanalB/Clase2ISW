@@ -1,2 +1,2 @@
-> [!Ejercicios Java]
-> Ejercicios basicos de java
+> [!TIP]
+> Ejercicios basicos para java
