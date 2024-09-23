@@ -1,1 +1,2 @@
-> [!Ejercicios para java]
+> [!Ejercicios Java]
+> Ejercicios basicos de java
