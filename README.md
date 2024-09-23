@@ -1,1 +1,1 @@
-# Clase2ISW
+> [!Ejercicios para java]
